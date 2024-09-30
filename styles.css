@@ -1,0 +1,138 @@
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background-image: url("https://i.redd.it/4v6zzf5eigub1.jpg");
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 6px black;
+}
+
+#bff-img {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid white;
+    margin-bottom: 10px;
+}
+
+#bday-age {
+    background: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date {
+    margin: 0;
+    background: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+#gift-img-cheers {
+    height: 200px;
+}
+
+#gift-img-kanye {
+    height: 50px;
+    width: 50px;
+}
+
+#gift-img-kitty {
+    height: 100px;
+    width: 100px;
+}
+
+#gift-img-catnap {
+    height: 150px;
+    width: 150px;
+}
+
+#gift-img-lake {
+    height: 200px;
+    width: 200px;
+}
+
+#gift-img-duck {
+    height: 270px;
+    width: 250px;
+}
+
+.gift-img {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://img.freepik.com/free-photo/nice-wrapping-paper-with-elegant-bow_1101-617.jpg");
+    background-size: cover;
+}
+
+#gift-img-happy:hover {
+    background-image: url("https://media1.tenor.com/m/i31Dgaf8gmgAAAAC/zzz-zenless-zone-zero.gif");
+}
+
+#gift-img-hot:hover {
+    background-image: url("https://media1.tenor.com/m/6X_wHRzkDuoAAAAC/x-gon-give-it-to-ya-dmx.gif");
+}
+
+#gift-img-genius:hover {
+    background-image: url("https://i.ytimg.com/vi/EhiESf2zE9g/sddefault.jpg");
+}
+
+#gift-img-badass:hover {
+    background-image: url("https://media.tenor.com/ZW6Htyd8QDcAAAAi/%D0%BC%D0%B5%D0%BC%D1%8B.gif");
+}
+
+#gift-img-cheers:hover {
+    background-image: url("https://media1.tenor.com/m/MT1EXi-NiEsAAAAC/cat-heart.gif");
+}
+
+#gift-img-kanye:hover {
+    background-image: url("https://media1.tenor.com/m/gAPWpfgxRBQAAAAd/stare.gif");
+}
+
+#gift-img-kitty:hover {
+    background-image: url("https://media.tenor.com/0M__hat5YjQAAAAi/hug-hugs.gif");
+}
+
+#gift-img-catnap:hover {
+    background-image: url("https://media1.tenor.com/m/GZblEEoz7qAAAAAC/cat-catnap.gif");
+}
+
+#gift-img-lake:hover {
+    background-image: url("https://media1.tenor.com/m/Ie7vb33dTukAAAAd/summon-meme.gif");
+}
+
+#gift-img-duck:hover {
+    background-image: url("https://media1.tenor.com/m/WLMZUmxB1yMAAAAd/duck-ducky.gif");
+}
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: white;
+}
